@@ -1,0 +1,1 @@
+# Terceiro Dia da Seção 1
