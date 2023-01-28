@@ -1,0 +1,3 @@
+Olá bom dia
+Olá boa tarde
+Olá boa noite
