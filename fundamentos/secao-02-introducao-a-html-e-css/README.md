@@ -1,0 +1,1 @@
+Eu aprendi na prática como utilizar HTML para estruturar páginas web e estilizá-las com o CSS de forma muito prática. Afinal, esse é o ponto de contato das pessoas usuárias com as suas aplicações.
